@@ -1,0 +1,1 @@
+It is an academic project to recognize different fruits from their pictures. We have collected images of five new fruit and vegetables and added those into already exsisting dataset named 'fruit-360'. Then we have build a CNN model and trained and tested on that dataset. We also fine-tunned 'VGG-16' and 'VGG-19' models on this dataset.
